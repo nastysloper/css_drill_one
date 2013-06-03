@@ -10,3 +10,43 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+.content {
+  width: 579px;
+  float: right;
+  padding-left: 10px;
+  border-left-style: solid;
+  border-left-color: black;
+}
+
+nav {
+  width: 120px;
+  float: left;
+  padding-left: 0px;
+  padding-top: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+ul{
+  padding-left: 0px;
+  margin-top: 0px;
+
+}
+
+li{
+  list-style-type: none;
+  padding: 2px;
+}
+
+.footer {
+  clear: both;
+  border-top: 1px solid black;
+  padding-top: 10px;
+  padding-left: 20%;
+}
+
+h2{
+  margin-top: 0px;
+}
+
